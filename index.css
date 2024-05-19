@@ -1,23 +1,31 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: black;
     color: aliceblue;
     text-align: center;
     margin-top: 170px;
 }
 
-.links{
+.links {
     margin-top: 25px;
     color: aliceblue;
     border: 12px;
 }
 
-.h1{
+.h1 {
     color: aliceblue;
+
+}
+
+.links {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    color: brown;
 
 }
