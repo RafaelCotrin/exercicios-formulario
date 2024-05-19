@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.links{
+    margin-top: 25px;
+    color: aliceblue;
+    border: 12px;
+}
+
+.h1{
+    color: aliceblue;
+
+}
